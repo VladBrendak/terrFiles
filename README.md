@@ -1,1 +1,1 @@
-# terrFiles
+# terraform_university_laba
